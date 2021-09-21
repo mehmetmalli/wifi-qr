@@ -1,6 +1,6 @@
 <template>
   <v-app-bar app color="primary" dark>
-    <div class="d-flex align-center">WiFi QR Code Generator</div>
+    <h2>WiFi QR Code Generator</h2>
 
     <v-spacer></v-spacer>
 
@@ -13,6 +13,6 @@
 
 <script>
 export default {
-  name: "Header"
+  name: "Header",
 };
 </script>
