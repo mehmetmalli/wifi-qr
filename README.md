@@ -1,6 +1,7 @@
 # WiFi QR Code Generator
 
-Generate QR codes for WiFi networks. Made with Vue.
+Generate QR codes for WiFi networks. 
+>Made with Vue.js.
 
 Available [here](https://mehmetmalli.com.tr/wifi-qr).
 
